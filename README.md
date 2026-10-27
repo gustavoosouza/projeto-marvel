@@ -14,4 +14,6 @@ Site criado para praticar
 ## Créditos
 
 Projeto desenvolvido com apoio do OpenAI Codex.
-https://gustavoosouza.github.io/projeto-marvel/
+-
+[Projeto Marvel](https://gustavoosouza.github.io/projeto-marvel/)
+
