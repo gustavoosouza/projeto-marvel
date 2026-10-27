@@ -1,6 +1,9 @@
 # Guia Marvel
 
-Site criado para praticar HTML, CSS e JavaScript.
+Site criado para praticar 
+- HTML
+- CSS 
+- JavaScript.
 
 ## O que tem no site
 
@@ -11,3 +14,4 @@ Site criado para praticar HTML, CSS e JavaScript.
 ## Créditos
 
 Projeto desenvolvido com apoio do OpenAI Codex.
+https://gustavoosouza.github.io/projeto-marvel/
